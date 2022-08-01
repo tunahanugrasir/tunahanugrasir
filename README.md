@@ -1,5 +1,5 @@
 ![MasterHead](https://media.giphy.com/media/mHjjxCf4MOqsw/giphy.gif)
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/mHjjxCf4MOqsw/giphy.gif">
+
 <h1 align="center">Hi There, I'm Tunahan</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
